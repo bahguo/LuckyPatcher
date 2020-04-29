@@ -1,0 +1,21 @@
+[BEGIN]
+Tandem v2.1.x belum update...
+
+[CLASSES]
+{"classes_name":"classes.dex"}
+{"original":"6e 10 82 f8 ?? 00 0a ??"}
+{"replaced":"6e 10 82 f8 ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 06 68 ?? 00 0a ??"}
+{"replaced":"6e 10 06 68 ?? 00 12 S1"}
+
+//{"original":"c3 fa 01 00 0a 00 0f 00 70 10 b3 fa 03 00 0a 00 ??"}v2.0.5
+//{"replaced":"c3 fa 01 00 12 10 0f 00 70 10 b3 fa 03 00 12 10 ??"}
+//{"original":"8a fa 01 00 0a 00 0f 00 70 10 7a fa 03 00 0a 00 ??"}v2.0.4
+//{"replaced":"8a fa 01 00 12 10 0f 00 70 10 7a fa 03 00 12 10 ??"}
+//{"original":"05 fb 01 00 0a 00 0f 00 70 10 f6 fa 03 00 0a 00 ??"}v2.0.3
+//{"original":"05 fb 01 00 12 10 0f 00 70 10 f6 fa 03 00 12 00 ??"}
+
+[END]
+Ntar diupdate kalau ada waktu...
