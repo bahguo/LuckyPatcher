@@ -1,0 +1,17 @@
+[BEGIN]
+KineMaster v4.x.x pastinya bukan yang baru...
+
+[CLASSES]
+{"original":"63 72 61 73 68 6c 79 74 69 63 73 2e 63 6f 6d 2f"}
+{"replaced":"63 72 61 73 68 6c 79 74 69 63 72 2e 63 6f 6d 2f"}
+
+{"classes_name":"classes.dex"}
+{"original":"6e 20 91 cf ?? 00 0a ?? 38 ??"}
+{"replaced":"6e 20 91 cf ?? 00 12 S1 38 ??"}
+
+{"classes_name":"classes3.dex"}
+{"original":"00 00 00 55 20 9b 06 38 00 05 00"}
+{"replaced":"00 00 00 12 00 12 10 38 00 05 00"}
+
+[END]
+Ini versi berapanya lupa, udah lama sekali soalnya...
