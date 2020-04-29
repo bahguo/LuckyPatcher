@@ -1,0 +1,67 @@
+[BEGIN]
+HelloEnglish v856 persisnya...
+[CLASSES]
+{"classes_name":"classes.dex"}
+{"search":"1a 00 R00 R01 12 01 71 30 ?? ?? 02 01 0a 00 39 00 29 00 1a 00 R02 R03 71 30 ?? ?? 02 01 0a 00 39 00 21 00 1a 00 R04 R05 71 30 ?? ?? 02 01 0a 00 39 00 19 00 1a 00 R06 R07 71 30 R08 R09 02 01 0a 00 39 00 11 00 1a 00 R10 R11"}
+
+{"search":"0c 09 1a 0a R00 R01 71 30 R02 R03 a9 05 0a 09 71 00"}
+{"classes_name":"classes2.dex"}
+{"search":"1a 01 R00 R01 12 02 71 30 R02 R03 10 02 0a 00 39 00 31 00 1a 00"}
+{"search":"1a 02 R00 R01 71 30 R02 R03 21 00 0a 02 38 02 37 00"}
+
+{"classes_name":"classes.dex"}
+{"classes_name":"classes2.dex"}
+{"original":"W00 W01 12 ?? 71 30 W08 W09 ?? ?? 0a ??"}
+{"replaced":"W00 W01 12 ?? 71 30 W08 W09 ?? ?? 12 S1"}
+
+{"classes_name":"classes.dex"}
+{"classes_name":"classes2.dex"}
+{"original":"W00 W01 71 30 W08 W09 ?? ?? 0a ??"}
+{"replaced":"W00 W01 71 30 W08 W09 ?? ?? 12 S1"}
+
+{"classes_name":"classes2.dex"}
+
+
+{"classes_name":"classes2.dex"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"52 50 71 30 W08 W09 21 06 0a ??"}
+//{"replaced":"52 50 71 30 W08 W09 21 06 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"W00 W01 38 0e 29 00 6e 10 ?? ?? 0c 00 0a 0e 39 0e 03 00 11 0d 6e 10 ?? ?? 0c 00 0c 0e 71 30 W08 W09 ?? ?? 0a ??"}
+//{"replaced":"W00 W01 38 0e 29 00 6e 10 ?? ?? 0c 00 0a 0e 39 0e 03 00 11 0d 6e 10 ?? ?? 0c 00 0c 0e 71 30 W08 W09 ?? ?? 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"71 30 W08 W09 8f 0a 0a 01 38 01 2b 00 71 30 W08 W09 7f 0a 0a ??"}
+//{"replaced":"71 30 W08 W09 8f 0a 0a 01 38 01 2b 00 71 30 W08 W09 7f 0a 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"W00 W01 ?? ?? 71 30 W08 W09 ?? ?? 0a ??"}
+//{"replaced":"W00 W01 ?? ?? 71 30 W08 W09 ?? ?? 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"13 00 0c 00 71 30 W08 W09 a0 09 0a ??"}
+//{"replaced":"13 00 0c 00 71 30 W08 W09 a0 09 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"07 00 0c 07 71 30 W08 W09 17 04 0a ??"}
+//{"replaced":"07 00 0c 07 71 30 W08 W09 17 04 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"1a ?? 11 20 ?? ?? ?? ?? 71 30 1b 2a ?? ?? 0a ??"}
+//{"replaced":"1a ?? 11 20 ?? ?? ?? ?? 71 30 1b 2a ?? ?? 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"39 03 0c 00 71 30 1b 2a 6a 05 0a 03"}
+//{"replaced":"39 03 0c 00 71 30 1b 2a 6a 05 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"1a ?? 11 20 ?? ?? 71 30 1b 2a ?? ?? 0a ??"}
+//{"replaced":"1a ?? 11 20 ?? ?? 71 30 1b 2a ?? ?? 12 S1"}
+
+{"classes_name":"classes4.dex"}
+//{"original":"08 00 0c 08 71 30 1b 2a 48 03 0a 08"}
+//{"replaced":"08 00 0c 08 71 30 1b 2a 48 03 12 S1"}
+[END]
+belum diupdate...
