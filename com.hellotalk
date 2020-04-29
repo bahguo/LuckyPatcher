@@ -1,0 +1,72 @@
+[BEGIN]
+HelloTalk v3.4.x lupa...
+[PACKAGE]
+[CLASSES]
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 d2 3d ?? 00 0a ??"}
+{"replaced":"6e 10 d2 3d ?? 00 12 S1"}
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 cc 3d ?? 00 0a ??"}
+{"replaced":"6e 10 cc 3d ?? 00 12 S1"}
+
+{"classes_name":"classes4.dex"}
+{"original":"6e 10 55 3e ?? 00 0a ??"}
+{"replaced":"6e 10 55 3e ?? 00 12 S1"}
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 cf 3d ?? 00 0b ??"}
+{"replaced":"71 00 98 fb 00 00 0b ??"}
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 d0 3d ?? 00 0a ??"}
+{"replaced":"6e 10 d0 3d ?? 00 12 S1"}
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 ce 3d ?? 00 0b ??"}
+{"replaced":"71 00 98 fb 00 00 0b ??"}
+
+{"classes_name":"classes2.dex"}
+{"original":"71 00 c9 44 ?? 00 0a ??"}
+{"replaced":"71 00 c9 44 ?? 00 12 S1"}
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 45 62 ?? 00 0a ??"}
+{"replaced":"6e 10 45 62 ?? 00 12 S0"}
+{"original":"74 01 45 62 ?? 00 0a ??"}
+{"replaced":"74 01 45 62 ?? 00 12 S0"}
+
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 fc 42 ?? 00 0a ??"}
+{"replaced":"6e 10 fc 42 ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 64 65 ?? 00 0a ??"}
+{"replaced":"6e 10 64 65 ?? 00 12 S0"}
+
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 cb 0a ?? 00 0a ??"}
+{"replaced":"6e 10 cb 0a ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 c9 0a ?? 00 0a ??"}
+{"replaced":"6e 10 c9 0a ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 ca 0a ?? 00 0a ??"}
+{"replaced":"6e 10 ca 0a ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"71 00 fc 0b ?? 00 0a ??"}
+{"replaced":"71 00 fc 0b ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 a4 0b ?? 00 0a ??"}
+{"replaced":"6e 10 a4 0b ?? 00 12 S1"}
+
+{"classes_name":"classes3.dex"}
+{"original":"13 09 64 00 32 ?? ?? 00 12 ?? 32 ??"}
+{"replaced":"13 09 64 00 32 SQ ?? 00 12 ?? 32 SQ"}
+[END]
+Mungkin lain kali ya...
