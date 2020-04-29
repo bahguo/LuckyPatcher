@@ -1,0 +1,15 @@
+[BEGIN]
+JOOX v5.6.4
+[PACKAGE]
+[CLASSES]
+{"classes_name":"classes.dex"}
+{"original":"6e 10 2d bb ?? 00 0a ??"}
+{"replaced":"6e 10 2d bb ?? 00 12 S1"}
+{"classes_name":"classes4.dex"}
+{"original":"6e 10 c4 5a ?? 00 0a ??"}
+{"replaced":"6e 10 c4 5a ?? 00 12 S1"}
+{"classes_name":"classes6.dex"}
+{"original":"6e 10 e3 0d ?? 00 0a ??"}
+{"replaced":"6e 10 e3 0d ?? 00 12 S1"}
+[END]
+Nasi anjing berita hangat...
