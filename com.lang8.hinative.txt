@@ -1,0 +1,36 @@
+[BEGIN]
+HiNative v7.9.x ini lupa juga...
+[CLASSES]
+{"classes_name":"classes2.dex"}
+{"original":"6e 10 d4 2d ?? 00 0a ??"}
+{"replaced":"6e 10 d4 2d ?? 00 12 S1"}
+
+//{"original":"1a ?? 3d f0 71 20 b4 e6 ?? 00 0a ??"}
+//{"replaced":"1a ?? 3d f0 71 20 b4 e6 ?? 00 12 S1"}
+
+{"original":"6e 10 62 2c ?? 00 0a ??"}
+{"replaced":"6e 10 62 2c ?? 00 12 S1"}
+
+{"original":"6e 10 93 2c ?? 00 0a ??"}
+{"replaced":"6e 10 93 2c ?? 00 12 S1"}
+
+{"original":"1a ?? 3d f0 12 03 12 24 71 51 6d fd ?? ?? 0a ??"}
+{"replaced":"1a ?? 3d f0 12 03 12 24 71 51 6d fd ?? ?? 12 S1"}
+{"original":"71 20 b4 e6 20 00 0a ?? 39 00 4b 00"}
+{"replaced":"71 20 b4 e6 20 00 12 S1 39 00 4b 00"}
+{"original":"6e 10 e8 cf 00 00 0a 00 12 12 34 20 31 00"}
+{"replaced":"6e 10 e8 cf 00 00 12 S1 12 12 34 20 31 00"}
+
+{"original":"6e 10 1c 25 ?? 00 0a ??"}
+{"replaced":"6e 10 1c 25 ?? 00 12 S1"}
+
+{"original":"74 01 62 2c ?? 00 0a ??"}
+{"replaced":"74 01 62 2c ?? 00 12 S1"}
+
+{"original":"6e 10 81 7d ?? 00 0a ??"}
+{"replaced":"6e 10 81 7d ?? 00 12 S1"}
+
+//{"original":"1a ?? 4d f0 71 20 b4 e6 ?? 00 0a ??"}
+//{"replaced":"1a ?? 4d f0 71 20 b4 e6 ?? 00 12 S0"}
+[END]
+ga usah update lagi kali ya, udah dibuka sama developernya haha...
