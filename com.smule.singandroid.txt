@@ -1,6 +1,12 @@
 [BEGIN]
-Smule v7.1.1
+Smule v7.1.9
 [PACKAGE]
 [CLASSES]
+{"classes_name":"classes.dex"}
+{"original":"6e 10 08 c4 ?? 00 0a ??"}
+{"replaced":"6e 10 08 c4 ?? 00 12 S1"}
+{"classes_name":"classes3.dex"}
+{"original":"6e 10 56 29 ?? 00 0a ??"}
+{"replaced":"6e 10 56 29 ?? 00 12 S1"}
 [END]
-Maaf belum dibuat, silahkan tunggu lain waktu lagi..
+ikuti saya haha...
