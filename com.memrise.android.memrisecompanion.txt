@@ -1,3 +1,0 @@
-Lcom/memrise/android/memrisecompanion/core/api/models/response/Profile;->isPro()Z
-Lcom/memrise/android/memrisecompanion/core/models/Subscription;->isActive()Z
-Lcom/memrise/android/memrisecompanion/core/models/Subscription;->getSubscriptionType()I
