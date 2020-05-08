@@ -1,0 +1,6 @@
+[BEGIN]
+Memrise v2.94
+[PACKAGE]
+[CLASSES]
+[END]
+already unlocked by balatan
