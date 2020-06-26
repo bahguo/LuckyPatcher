@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/peace/TextScanner/App;->b()Z
+[END]
