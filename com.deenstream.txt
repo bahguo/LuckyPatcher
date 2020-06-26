@@ -1,0 +1,3 @@
+[BEGIN]
+Ltv/vhx/api/models/Customer;->hasSubscriptionFor(J)Z
+[END]
