@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/gigl/app/utils/Subscription;->getUserSubscription(Lcom/gigl/app/data/DataManager;)Z
+[END]
