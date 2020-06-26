@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/gigya/android/sdk/providers/provider/GoogleProvider$1;->onCreate(Landroidx/appcompat/app/AppCompatActivity;Landroid/os/Bundle;)V
+[END]
