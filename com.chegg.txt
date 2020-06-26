@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/chegg/sdk/a/c;->a()Z
+[END]
