@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/discoveryplus/android/mobile/login/DPlusSocialLoginFragment;->a(Lcom/discoveryplus/android/mobile/login/DPlusSocialLoginFragment;)V
+[END]
