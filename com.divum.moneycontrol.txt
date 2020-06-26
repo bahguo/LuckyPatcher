@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/moneycontrol/handheld/AppData;->g()Z
+[END]
