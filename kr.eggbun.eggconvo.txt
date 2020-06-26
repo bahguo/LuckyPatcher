@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/eggbun/chat2learn/primer/network/dto/LessonDetailsState;->getLocked()Z
+[END]
