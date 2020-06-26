@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/hellochinese/m/a1/w;->g(Landroid/content/Context;)Z
+[END]
