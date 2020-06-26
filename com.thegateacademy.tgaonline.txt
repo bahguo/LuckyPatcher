@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/thegateacademy/tgaonline/User/UserService;->getTRIAL_STATUS()Ljava/lang/Boolean;
+[END]
