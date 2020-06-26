@@ -1,0 +1,2 @@
+Lcom/englishcentral/android/core/data/EcAccountManager;->isCQLimitReached(Landroid/content/Context;J)Z
+Lcom/englishcentral/android/core/data/EcAccountManager;->isVideoLimitReached(Landroid/content/Context;J)Z
