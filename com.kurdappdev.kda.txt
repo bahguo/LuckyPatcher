@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/google/android/gms/auth/api/signin/GoogleSignInClient;->getSignInIntent()Landroid/content/Intent;
+[END]
