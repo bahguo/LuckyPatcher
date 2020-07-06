@@ -1,0 +1,3 @@
+[BEGIN]
+Lcom/zenlabs/challenge/activity/MainActivity;->verifyDeveloperPayload(Lcom/zenlabs/challenge/iab/Purchase;)Z
+[END]
