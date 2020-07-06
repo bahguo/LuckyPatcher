@@ -1,0 +1,4 @@
+[BEGIN]
+Lc/b/a/f/l;->b(Ljava/util/Hashtable;)Z
+Lc/b/a/f/l;->c(Ljava/util/Hashtable;)Z
+[END]
