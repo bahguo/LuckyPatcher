@@ -1,0 +1,3 @@
+[BEGIN]
+Landroid/content/SharedPreferences$Editor;->putBoolean(Ljava/lang/String;Z)Landroid/content/SharedPreferences$Editor;
+[END]
