@@ -1,0 +1,3 @@
+[BEGIN]
+Leasyvpn/free/vpn/unblock/proxy/iap/k;->b()Z
+[END]
