@@ -1,0 +1,6 @@
+"productId"
+"tier1_monthly_standard"
+"tier1_monthly_v2"
+Ld/c/a/a/a0;->c:Z
+"tier1_yearly_basic"
+Ld/c/a/a/a0;->d:Z
