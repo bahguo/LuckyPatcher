@@ -1,0 +1,1 @@
+Lcom/blinkslabs/blinkist/android/user/FeatureToggleService;->canRead()Z
