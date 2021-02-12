@@ -1,0 +1,1 @@
+Lcom/mydiabetes/comm/dto/SubscriptionPlan;->isPremiumFree()Z
