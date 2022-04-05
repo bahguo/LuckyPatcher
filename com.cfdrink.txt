@@ -1,0 +1,12 @@
+[BEGIN]
+By bahguo
+https://t.me/baqin
+Mixel
+Version: 1.10.135
+Build: 1010135
+[FILE_IN_APK]
+{"name":"assets/index.android.bundle"}
+{"original":"3F 66 ?? ?? ?? ?? ?? ?? 00"}
+{"replaced":"3F 66 +35 +2 +6 -3 +1 ?? 00"}
+[END]
+2022/04/04 Ramadan Kareem
