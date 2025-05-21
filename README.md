@@ -8,4 +8,4 @@ Lucky Patcher [Installer](https://chelpus.com/luckypatcher/LuckyPatcherInstaller
 A list of custom patches can be found [here](https://patch.chelpus.com).
 
 ## Note
-Open [source](https://github.com/AndroidAppz)
+[Changelog](https://chelpus.com/luckypatcher/Changelogs.vers) [Version](https://chelpus.com/luckypatcher/Changelogs.vers)
